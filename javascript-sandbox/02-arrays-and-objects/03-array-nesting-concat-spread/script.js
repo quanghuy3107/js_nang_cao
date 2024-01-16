@@ -26,6 +26,7 @@ x = [...fruits, ...berries];
 const arr = [1, 2, [3, 4, 5], 6, [7, 8]];
 x = arr.flat();
 
+console.log(x);
 // Static methods of Array object
 
 // isArray() - Check is is an array
